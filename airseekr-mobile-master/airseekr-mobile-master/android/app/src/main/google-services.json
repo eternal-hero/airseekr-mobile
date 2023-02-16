@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "661155938267",
+    "firebase_url": "https://airseekr-f6d59-default-rtdb.firebaseio.com",
+    "project_id": "airseekr-f6d59",
+    "storage_bucket": "airseekr-f6d59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661155938267:android:3248270f884324c4cc31fe",
+        "android_client_info": {
+          "package_name": "com.airseekr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661155938267-342n2firul18e16o6mp70j6vubka0quv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.airseekr",
+            "certificate_hash": "568f0c76ea23b1e9fb2ae76e8973ce5eb4b65570"
+          }
+        },
+        {
+          "client_id": "661155938267-h7gnch5gacnu2omgs2fl3grq0s4tmlrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD5MyFf55vi-hndmO3CFuvX31h-ImGmLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661155938267-h7gnch5gacnu2omgs2fl3grq0s4tmlrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
